@@ -1,4 +1,4 @@
-#EXAMEN ENTORNOS 27/11/2019 JORGE SÁNCHEZ-FLOR SÁNCHEZ
+# EXAMEN ENTORNOS 27/11/2019 JORGE SÁNCHEZ-FLOR SÁNCHEZ
 
 ~~~
 El primer paso ha sido crear un repositorio vacio en GitHub
